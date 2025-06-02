@@ -1,14 +1,33 @@
-INPUT 
 
-Item
+### ALGORITHM
+INPUT: Item
+
 
 PROCESS
+1. Create a queue 
+2. If the queue is not full, add items to the queue
+3. If the queue is not empty, following the FIFO principle, remove the first element that was added to the queue
 Create a function that takes in an item
 Initialize a list to store items
 Insert item at the end of the list
 Check if the list is empty.
 If not, remove the item at the beginning of the list.
 
-OUTPUT 
+OUTPUT: Item
 
-Item
+
+### PSEUDOCODE
+
+INPUT: Item
+
+
+PROCESS
+
+1. Create a function that takes in an item
+2. Initialize a list to store items
+3 . Insert item at the end of the list
+4. Check if the list is empty.
+5 . If not, remove the item at the beginning of the list.
+
+OUTPUT : Item
+
