@@ -1,15 +1,15 @@
 ###ALGORITHM
-Gather a list of VMs with details on peak usage, function, and resource needs.
-Sort the VMs in descending order by peak usage to prioritize those with the highest demand.
-For each VM, allocate resources according to its function:
+1. Gather a list of VMs with details on peak usage, function, and resource needs.
+2. Sort the VMs in descending order by peak usage to prioritize those with the highest demand.
+3. For each VM, allocate resources according to its function:
                                                           High Processing Power: Assign to servers with strong CPU capabilities.
                                                           Large Storage Needs: Place on servers with ample storage capacity.
                                                           High RAM Requirements: Allocate to servers equipped with sufficient RAM.
-Review the list to find VMs that are not currently in use.
-The VMs identified as idle initiate a sleep mode to reduce power consumption while maintaining their state for quick reactivation.
-Identify the VMs that rely on each other for data exchange and group them accordingly.
-Place dependent virtual machines (VMs) on the same server or on nearby servers to minimize physical distance and reduce latency.
-Break data into smaller packets for transmission to enhance reliability and efficiency in communication.
-Ensure data travels via the shortest path between dependent VMs  to minimize delays.
+4. Review the list to find VMs that are not currently in use.
+5. The VMs identified as idle initiate a sleep mode to reduce power consumption while maintaining their state for quick reactivation.
+6. Identify the VMs that rely on each other for data exchange and group them accordingly.
+7. Place dependent virtual machines (VMs) on the same server or on nearby servers to minimize physical distance and reduce latency.
+8. Break data into smaller packets for transmission to enhance reliability and efficiency in communication.
+9. Ensure data travels via the shortest path between dependent VMs  to minimize delays.
 
 
