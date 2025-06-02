@@ -14,4 +14,6 @@ Create an algorithm to efficiently allocate virtual machines (VMs) to physical s
 
 Develop a system for managing tasks and projects across teams or organisations. Think about how to organize tasks and projects hierarchically, assign responsibilities and deadlines, track progress and dependencies, and generate reports and notifications.
 ## GROUP MEMBERS
-Pheobe Apondi\ Sharon Murithi\  Mercy Mwikali
+Pheobe Apondi\ 
+Sharon Murithi\ 
+Mercy Mwikali
