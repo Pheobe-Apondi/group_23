@@ -1,15 +1,17 @@
-#Group 23
+# Group 23
 
-##Question 1
+## Question 1
 
 You are developing a simulation for a factory product line. How would you represent the conveyor belt where items move along the production line?  Write code to simulate a conveyor belt using your knowledge in data structures, where items are added and removed from the conveyor belt as they enter and exit.
 
-##Question 2
+## Question 2
 
 Create an algorithm to efficiently allocate virtual machines (VMs) to physical servers in a data center environment. This system needs to optimize resource usage across servers, reduce power consumption, and minimize the latency between dependent VMs. The challenge includes handling VM migrations to balance load without causing significant performance degradation, adhering to data security and locality requirements, and predicting resource needs based on usage patterns.
 
 
-##Question 3
+## Question 3
 
 
 Develop a system for managing tasks and projects across teams or organisations. Think about how to organize tasks and projects hierarchically, assign responsibilities and deadlines, track progress and dependencies, and generate reports and notifications.
+## GROUP MEMMBERS
+Pheobe Apondi \n Sharon Murithi \n Mercy Mwikali
