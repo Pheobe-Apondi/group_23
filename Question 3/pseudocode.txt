@@ -6,6 +6,6 @@
 5. Track Dependencies: if tasks depend on other tasks. Ensure dependent tasks are completed before progressing.
 6. Update Task Progress: Allow team members to update task progress. If a task is completed, mark the status as "Completed".
 7. Send Notifications, Trigger notifications for deadline reminders or task assignments.
-8. Generate Reports, Calculate overall project progress using task completion percentages, Summarize pending tasks, completed tasks, and member contributions.
-9. Check for deadlines and identify overdue tasks. And notify the responsible team members to take action.
+8. Generate Reports, calculate overall project progress using task completion percentages, summarize pending tasks, completed tasks, and member contributions.
+9. If there are any overdue tasks, notify the responsible team members to take action. 
 10. Completion Check: If all tasks within a project are marked as "Completed", update the project status to "Completed".
